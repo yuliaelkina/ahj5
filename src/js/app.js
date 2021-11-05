@@ -10,4 +10,4 @@ document.addEventListener('DOMContentLoaded', () => {
     popover.style.top = `${button.offsetTop - popover.offsetHeight}px`;
     popover.style.left = `${button.offsetLeft + button.offsetWidth / 2 - popover.offsetWidth / 2}px`;
   });
-})
+});
